@@ -1,13 +1,13 @@
 {
     "app": {
-        "title": "Talk to your data",
+        "title": "Talk about your Projects",
         "footer": "Built with Azure AI Search + Azure OpenAI by Neo",
         "stopRecording": "Stop recording",
         "startRecording": "Start recording",
         "stopConversation": "Stop conversation"
     },
     "status": {
-        "notRecordingMessage": "Ask anything about DPD employee benefits",
+        "notRecordingMessage": "Ask anything about Topsoe Tools or Applications.",
         "conversationInProgress": "Conversation in progress"
     },
     "history": {
@@ -15,7 +15,7 @@
         "noHistory": "No history yet."
     },
     "groundingFiles": {
-        "title": "Grounding files",
+        "title": "Files Referred.",
         "description": "Files used to ground the answers."
     }
 }
